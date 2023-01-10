@@ -17,13 +17,14 @@ body * {
     width: 550px;
     height: 850px;
     margin-top: 10rem;    
-    border-radius: 25px;
+    
 }
 
 .card1 {
     display: flex;
     flex-direction: row;
-    
+    border-radius: 15px;
+    overflow: hidden;
 }
 
 .card1 .image-large,
