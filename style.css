@@ -108,6 +108,11 @@ button {
     font-family: 'Montserrat', sans-serif;  
 }
 
+button:hover {
+    cursor: pointer;
+    background-color: hsl(158, 36%, 21%);
+}
+
 .trolley {
     padding-right: .5rem;
     height: .9rem;
